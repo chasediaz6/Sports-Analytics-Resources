@@ -14,6 +14,8 @@ XG Boost uses decision trees as base learners, building multiple decision trees 
 ----------
 
 ## **Sports Analytics Resources**
+Compilation of sports analytics resources. Below are a few general sports analytics articles and links:
+- [10 Steps to Get Started in Sports Analytics](https://sweepsportsanalytics.com/2021/08/01/10-steps-to-get-started-in-sports-analytics/)
 
 ### Baseball
 - [**Statcast Search**](https://baseballsavant.mlb.com/statcast_search): an application allowing users to access and search through MLB.com's Statcast database. It includes metrics such as Perceived Velocity (PV), Spin Rate (SR), Exit Velocity (EV), Hit Distance (DST), Launch Angle (LA), Batted Ball Direction (BBD), xBA, xSLG, xwOBA, and Quality of Contact. Great for retrieving advanced pitch data.
