@@ -17,6 +17,7 @@ XG Boost uses decision trees as base learners, building multiple decision trees 
 
 ### Baseball
 - [**Statcast Search**](https://baseballsavant.mlb.com/statcast_search): an application allowing users to access and search through MLB.com's Statcast database. It includes metrics such as Perceived Velocity (PV), Spin Rate (SR), Exit Velocity (EV), Hit Distance (DST), Launch Angle (LA), Batted Ball Direction (BBD), xBA, xSLG, xwOBA, and Quality of Contact. Great for retrieving advanced pitch data.
+![Statcast Search SS](https://github.com/chasediaz6/Machine-Learning-Resources/assets/52427910/10bd907c-e3ce-4a9f-8cba-5452356ad4eb)
 
 ### Football (American)
 
