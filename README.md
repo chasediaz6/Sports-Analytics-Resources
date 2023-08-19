@@ -1,4 +1,4 @@
-## **Sports Analytics Resources**
+# **Sports Analytics Resources**
 Compilation of sports analytics resources. Below are a few general sports analytics articles and links:
 - [10 Steps to Get Started in Sports Analytics](https://sweepsportsanalytics.com/2021/08/01/10-steps-to-get-started-in-sports-analytics/)
 
