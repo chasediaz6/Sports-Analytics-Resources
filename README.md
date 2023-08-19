@@ -18,5 +18,7 @@ Compilation of sports analytics resources. Below are a few general sports analyt
 ### MMA
 - [BetMMA.tips](https://www.betmma.tips/index.php): extensive source for MMA analytics and statistics focused on betting. Also contains MMA betting tips, handicappers directory, paid picks and betting tools.
 
+- [BestFightOdds](https://www.bestfightodds.com): betting odds history for martial arts. gives the change in odds over time for most UFC, Bellator, PFL, LFA fights.
+
 ### Golf
 
