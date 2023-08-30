@@ -22,3 +22,5 @@ Compilation of sports analytics resources. Below are a few general sports analyt
 
 ### Golf
 
+### Gambling Odds 
+- [SofaScore](https://www.sofascore.com/): results, advanced statistics and odds history for almost every sports league in the world. Focus on football (soccer)
